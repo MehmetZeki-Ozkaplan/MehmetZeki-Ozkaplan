@@ -1,5 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/005/009/939/original/goat-logo-design-free-vector.jpg)
-<h1 align="center">Hi 👋, I'm Mehmet Zeki</h1>
+1 align="center">Hi 👋, I'm Mehmet Zeki</h1>
 <h3 align="center">I am a cybersecurity enthusiast and a computer engineering student. I focus on developing security solutions in the digital world and produce projects on system and network security.</h3>
 
 - 🔭 I’m currently working on **Cyber Security**
